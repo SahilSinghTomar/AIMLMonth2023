@@ -1,8 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23335
 
-Student Name      :   < Your good name >
+Student Name      :   Sahil Singh Tomar
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   PCOS Diagonostic
 
 Google Colab Link :   < View only link of your Google Colab Notebook >
 
